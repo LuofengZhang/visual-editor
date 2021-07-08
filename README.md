@@ -7,9 +7,9 @@
 ## 效果图
 想必你一定使用过易企秀或百度H5等微场景生成工具制作过炫酷的h5页面，除了感叹其神奇之处有没有想过其实现方式呢？本文从零开始实现一个H5编辑器项目完整设计思路和主要实现步骤，并开源前端代码。有需要的小伙伴可以按照该教程从零实现自己的H5编辑器。（实现起来并不复杂，该教程只是提供思路，并非最佳实践）
 
-> ![image](https://gitee.com/luofengzh/visual-editor/public/static/example/1.jpg)
-> ![image](https://gitee.com/luofengzh/visual-editor/public/static/example/2.jpg)
-> ![image](https://gitee.com/luofengzh/visual-editor/public/static/example/3.jpg)
+> ![image](https://raw.githubusercontent.com/LuofengZhang/visual-editor/master/public/static/example/1.jpg)
+> ![image](https://raw.githubusercontent.com/LuofengZhang/visual-editor/master/public/static/example/2.jpg)
+> ![image](https://raw.githubusercontent.com/LuofengZhang/visual-editor/master/public/static/example/3.jpg)
 ## 项目目录
 ``` javascript
 	src {
